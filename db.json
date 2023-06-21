@@ -1,0 +1,40 @@
+{
+  "subjects": [
+    {
+      "name": "Matemática",
+      "teacher": "",
+      "marks": [],
+      "id": 0
+    },
+    {
+      "name": "Lengua",
+      "teacher": "",
+      "marks": [],
+      "id": 1
+    },
+    {
+      "name": "Programación II",
+      "teacher": " ",
+      "marks": [],
+      "id": 2
+    },
+    {
+      "name": "Física",
+      "teacher": " ",
+      "marks": [],
+      "id": 4
+    },
+    {
+      "name": "Informática Aplicada II",
+      "teacher": " ",
+      "marks": [],
+      "id": 5
+    },
+    {
+      "name": "Química",
+      "teacher": " ",
+      "marks": [],
+      "id": 6
+    }
+  ]
+}
