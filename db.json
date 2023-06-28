@@ -2,37 +2,37 @@
   "subjects": [
     {
       "name": "Matemática",
-      "teacher": "Luis García",
+      "teacher": "Silvina Repeza",
       "marks": [8, 9, 7, 10],
       "id": 0
     },
     {
       "name": "Lengua",
-      "teacher": "María Rodríguez",
+      "teacher": "Florencia De Michel",
       "marks": [6, 8, 7],
       "id": 1
     },
     {
       "name": "Programación II",
-      "teacher": "Pedro López",
+      "teacher": "Hector Garcia",
       "marks": [3, 5, 4],
       "id": 2
     },
     {
       "name": "Física",
-      "teacher": "Ana Fernández",
+      "teacher": "Mauricio Monti",
       "marks": [7, 6, 8, 7],
       "id": 4
     },
     {
       "name": "Informática Aplicada II",
-      "teacher": "Juan Martínez",
+      "teacher": "Federico Virgolini",
       "marks": [10, 9, 9],
       "id": 5
     },
     {
       "name": "Química",
-      "teacher": "Laura Torres",
+      "teacher": "Francisco Franco",
       "marks": [4, 5],
       "id": 6
     }
